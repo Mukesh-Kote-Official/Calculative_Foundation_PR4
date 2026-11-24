@@ -286,9 +286,9 @@ It combines mathematical theory, numerical computation, Python programming, and 
 
 ## 👨‍💻 Author
 
-**Pratik Patil**
+**Mukesh Kote**
 
-GitHub: [@Pratik-Patil-AI](https://github.com/Pratik-Patil-AI)
+GitHub: [@Mukesh-Kote-Official](https://github.com/Mukesh-Kote-Official)
 
 **Project:** Calculative Foundation – Mathematical & Linear Algebra Analysis (PR-4)
 
